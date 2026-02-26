@@ -1,6 +1,6 @@
 {
   "name": "@leonardocrdso/modular-monolith-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server with architectural rules for Modular Monolith — module boundaries, communication patterns, and structural validation",
   "type": "module",
   "main": "build/index.js",
